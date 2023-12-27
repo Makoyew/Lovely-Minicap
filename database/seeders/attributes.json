@@ -1,0 +1,31 @@
+{
+    "attributes": [
+        {
+            "id": 1,
+            "name": "Herbs",
+            "image": "https://static.vecteezy.com/system/resources/previews/022/148/130/non_2x/banner-with-provence-herbs-copy-space-top-view-summer-background-generative-ai-free-photo.jpeg",
+            "description": "Herbs are the leaf part of a plant that is used in cooking - these can be used fresh or dried.",
+            "created_at": "2023-12-15 08:00:00",
+            "updated_at": "2023-12-15 08:30:00"
+        },
+        {
+            "id": 2,
+            "name": "Shrubs",
+            "image": "https://media.istockphoto.com/id/1060058642/vector/tree-crown-foliage-bush.jpg?s=612x612&w=0&k=20&c=rNfm5jiMELKUWq46TceQ-9VxpuJX-9h9o5XEAJBhKCg=",
+            "description": "Shrub, any woody plant that has several stems, none dominant, and is usually less than 3 m (10 feet) tall.",
+            "created_at": "2023-12-15 08:00:00",
+            "updated_at": "2023-12-15 08:30:00"
+        },
+        {
+            "id": 3,
+            "name": "Trees",
+            "image": "https://localbusinessau.org/wp-content/uploads/2019/06/SA-Tree-Recyclers-1.jpg",
+            "description": "Tree is a tall plant that can live a very long time. It has a single stem or trunk and branches that support leaves.",
+            "created_at": "2023-12-15 08:00:00",
+            "updated_at": "2023-12-15 08:30:00"
+        }
+    ],
+    "total": 3,
+    "skip": 0,
+    "limit": 3
+}

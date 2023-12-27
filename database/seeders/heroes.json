@@ -1,0 +1,55 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "Basil",
+            "image": "https://animals.sandiegozoo.org/sites/default/files/2016-11/basil-iStock_84310823_XXXLARGE.jpg",
+            "description": "Basil is an annual herbaceous plant in the mint family Lamiaceae.",
+            "release_date": "2023-12-15",
+            "attribute_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Dill",
+            "image": "https://www.almanac.com/sites/default/files/styles/large/public/image_nodes/dill-planting-growing.jpg?itok=luEqPYVw",
+            "description": "Dill is a very aromatic plant with an erect growth habit. It possess branching stems and fine, soft, fibre-like leaves.",
+            "release_date": "2023-12-16",
+            "attribute_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Oregano",
+            "image": "https://www.thespruce.com/thmb/zs8xM5Cp7JIp5YPBege3v--1JwQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/herb-profile-oregano-1761786-4-d1197219842c4d21b00ae50ca95d1c12.jpg",
+            "description": "Oregano (Origanum vulgare) is an herb used to flavor foods. It is considered safe in common food amounts, but has little evidence of health benefits.",
+            "release_date": "2023-12-17",
+            "attribute_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Rose",
+            "image": "https://www.kew.org/sites/default/files/styles/image_gallery/public/2020-10/Rosa%20Port%20Sunlight.jpg?itok=aC030cxX",
+            "description": "Their stems are usually prickly and their glossy, green leaves have toothed edges. Rose flowers vary in size and shape. ",
+            "release_date": "2023-12-18",
+            "attribute_id": 2
+        },
+        {
+            "id": 6,
+            "name": "Jasmine",
+            "image": "https://plantsinformation.com/wp-content/uploads/jasmine.jpg",
+            "description": "Common jasmine is a climbing shrub that can grow up to 8 metres tall. The leaves are made up of 7 to 9 smaller 'leaflets', which are long, pointed and oval-shaped. ",
+            "release_date": "2023-12-19",
+            "attribute_id": 2
+        },
+        {
+            "id": 4,
+            "name": "Pine Trees",
+            "image": "https://cdn.britannica.com/38/75938-050-135C08C1/Stone-pines-Donana-National-Park-Spain-Seville.jpg",
+            "description": "Their wood is coarse-grained and usually dark-coloured, with pale, often thick sapwood; the sheaths of the leaf clusters are persistent, and the leaves have two fibrovascular bundles.",
+            "release_date": "2023-12-20",
+            "attribute_id": 3
+        }
+    ],
+    "total": 6,
+    "skip": 0,
+    "limit": 6
+}
